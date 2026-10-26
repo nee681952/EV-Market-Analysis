@@ -1,0 +1,1001 @@
+﻿Year,State,Vehicle_Type,Manufacturer,EV_Registrations
+2022,Karnataka,Two-Wheeler,OLA Electric,12000
+2022,Karnataka,Three-Wheeler,Mahindra Electric,4500
+2022,Karnataka,Four-Wheeler,Tata Motors,3500
+2022,Maharashtra,Two-Wheeler,TVS Motor,10000
+2022,Maharashtra,Three-Wheeler,Mahindra Electric,6000
+2022,Maharashtra,Four-Wheeler,Tata Motors,4200
+2022,Tamil Nadu,Two-Wheeler,TVS Motor,8500
+2022,Tamil Nadu,Three-Wheeler,Mahindra Electric,3500
+2022,Tamil Nadu,Four-Wheeler,Hyundai,1800
+2022,Delhi,Two-Wheeler,OLA Electric,7000
+2022,Delhi,Three-Wheeler,Mahindra Electric,5000
+2022,Delhi,Four-Wheeler,Tata Motors,3000
+2023,Karnataka,Two-Wheeler,OLA Electric,16000
+2023,Karnataka,Three-Wheeler,Mahindra Electric,5500
+2023,Karnataka,Four-Wheeler,Tata Motors,5000
+2023,Maharashtra,Two-Wheeler,TVS Motor,14000
+2023,Maharashtra,Three-Wheeler,Mahindra Electric,7500
+2023,Maharashtra,Four-Wheeler,Tata Motors,6500
+2023,Tamil Nadu,Two-Wheeler,TVS Motor,12000
+2023,Tamil Nadu,Three-Wheeler,Mahindra Electric,4500
+2023,Tamil Nadu,Four-Wheeler,Hyundai,2800
+2023,Delhi,Two-Wheeler,OLA Electric,9000
+2023,Delhi,Three-Wheeler,Mahindra Electric,6500
+2023,Delhi,Four-Wheeler,Tata Motors,4500
+2024,Karnataka,Two-Wheeler,OLA Electric,22000
+2024,Karnataka,Three-Wheeler,Mahindra Electric,7000
+2024,Karnataka,Four-Wheeler,Tata Motors,8000
+2024,Maharashtra,Two-Wheeler,TVS Motor,19000
+2024,Maharashtra,Three-Wheeler,Mahindra Electric,9500
+2024,Maharashtra,Four-Wheeler,Tata Motors,10000
+2024,Tamil Nadu,Two-Wheeler,TVS Motor,17000
+2024,Tamil Nadu,Three-Wheeler,Mahindra Electric,6000
+2024,Tamil Nadu,Four-Wheeler,Hyundai,4500
+2024,Delhi,Two-Wheeler,OLA Electric,12000
+2024,Delhi,Three-Wheeler,Mahindra Electric,8000
+2024,Delhi,Four-Wheeler,Tata Motors,7000
+2025,Karnataka,Two-Wheeler,OLA Electric,28000
+2025,Karnataka,Three-Wheeler,Mahindra Electric,9000
+2025,Karnataka,Four-Wheeler,Tata Motors,12000
+2025,Maharashtra,Two-Wheeler,TVS Motor,25000
+2025,Maharashtra,Three-Wheeler,Mahindra Electric,12000
+2025,Maharashtra,Four-Wheeler,Tata Motors,15000
+2025,Tamil Nadu,Two-Wheeler,TVS Motor,22000
+2025,Tamil Nadu,Three-Wheeler,Mahindra Electric,8000
+2025,Tamil Nadu,Four-Wheeler,Hyundai,6500
+2025,Delhi,Two-Wheeler,OLA Electric,15000
+2025,Delhi,Three-Wheeler,Mahindra Electric,10000
+2025,Delhi,Four-Wheeler,Tata Motors,10000
+2022,Karnataka,Two-Wheeler,TVS Motor,10832
+2022,Karnataka,Two-Wheeler,Ather Energy,5510
+2022,Karnataka,Two-Wheeler,Bajaj Auto,7676
+2022,Karnataka,Two-Wheeler,Hero Electric,7227
+2022,Karnataka,Three-Wheeler,Piaggio,5002
+2022,Karnataka,Three-Wheeler,Bajaj Auto,4780
+2022,Karnataka,Three-Wheeler,Atul Auto,5580
+2022,Karnataka,Three-Wheeler,Omega Seiki,2591
+2022,Karnataka,Four-Wheeler,MG Motor,2876
+2022,Karnataka,Four-Wheeler,Hyundai,1784
+2022,Karnataka,Four-Wheeler,Mahindra,2310
+2022,Karnataka,Four-Wheeler,BYD,3108
+2022,Maharashtra,Two-Wheeler,OLA Electric,5965
+2022,Maharashtra,Two-Wheeler,Ather Energy,7577
+2022,Maharashtra,Two-Wheeler,Bajaj Auto,11797
+2022,Maharashtra,Two-Wheeler,Hero Electric,10815
+2022,Maharashtra,Three-Wheeler,Piaggio,3334
+2022,Maharashtra,Three-Wheeler,Bajaj Auto,4812
+2022,Maharashtra,Three-Wheeler,Atul Auto,5695
+2022,Maharashtra,Three-Wheeler,Omega Seiki,2476
+2022,Maharashtra,Four-Wheeler,MG Motor,4260
+2022,Maharashtra,Four-Wheeler,Hyundai,3937
+2022,Maharashtra,Four-Wheeler,Mahindra,2860
+2022,Maharashtra,Four-Wheeler,BYD,2305
+2022,Tamil Nadu,Two-Wheeler,OLA Electric,11955
+2022,Tamil Nadu,Two-Wheeler,Ather Energy,7224
+2022,Tamil Nadu,Two-Wheeler,Bajaj Auto,5365
+2022,Tamil Nadu,Two-Wheeler,Hero Electric,5395
+2022,Tamil Nadu,Three-Wheeler,Piaggio,4765
+2022,Tamil Nadu,Three-Wheeler,Bajaj Auto,3968
+2022,Tamil Nadu,Three-Wheeler,Atul Auto,4633
+2022,Tamil Nadu,Three-Wheeler,Omega Seiki,4380
+2022,Tamil Nadu,Four-Wheeler,Tata Motors,2811
+2022,Tamil Nadu,Four-Wheeler,MG Motor,3881
+2022,Tamil Nadu,Four-Wheeler,Mahindra,2424
+2022,Tamil Nadu,Four-Wheeler,BYD,2850
+2022,Delhi,Two-Wheeler,TVS Motor,9483
+2022,Delhi,Two-Wheeler,Ather Energy,8095
+2022,Delhi,Two-Wheeler,Bajaj Auto,9696
+2022,Delhi,Two-Wheeler,Hero Electric,7824
+2022,Delhi,Three-Wheeler,Piaggio,3712
+2022,Delhi,Three-Wheeler,Bajaj Auto,1853
+2022,Delhi,Three-Wheeler,Atul Auto,2367
+2022,Delhi,Three-Wheeler,Omega Seiki,2540
+2022,Delhi,Four-Wheeler,MG Motor,1462
+2022,Delhi,Four-Wheeler,Hyundai,1785
+2022,Delhi,Four-Wheeler,Mahindra,1506
+2022,Delhi,Four-Wheeler,BYD,1881
+2022,Gujarat,Two-Wheeler,OLA Electric,9072
+2022,Gujarat,Two-Wheeler,TVS Motor,7101
+2022,Gujarat,Two-Wheeler,Ather Energy,7140
+2022,Gujarat,Two-Wheeler,Bajaj Auto,5971
+2022,Gujarat,Two-Wheeler,Hero Electric,6389
+2022,Gujarat,Three-Wheeler,Mahindra Electric,4826
+2022,Gujarat,Three-Wheeler,Piaggio,3926
+2022,Gujarat,Three-Wheeler,Bajaj Auto,3805
+2022,Gujarat,Three-Wheeler,Atul Auto,2439
+2022,Gujarat,Three-Wheeler,Omega Seiki,4179
+2022,Gujarat,Four-Wheeler,Tata Motors,1811
+2022,Gujarat,Four-Wheeler,MG Motor,2316
+2022,Gujarat,Four-Wheeler,Hyundai,3743
+2022,Gujarat,Four-Wheeler,Mahindra,2926
+2022,Gujarat,Four-Wheeler,BYD,2731
+2022,Rajasthan,Two-Wheeler,OLA Electric,7632
+2022,Rajasthan,Two-Wheeler,TVS Motor,8564
+2022,Rajasthan,Two-Wheeler,Ather Energy,8170
+2022,Rajasthan,Two-Wheeler,Bajaj Auto,4948
+2022,Rajasthan,Two-Wheeler,Hero Electric,3788
+2022,Rajasthan,Three-Wheeler,Mahindra Electric,2339
+2022,Rajasthan,Three-Wheeler,Piaggio,2218
+2022,Rajasthan,Three-Wheeler,Bajaj Auto,2075
+2022,Rajasthan,Three-Wheeler,Atul Auto,3923
+2022,Rajasthan,Three-Wheeler,Omega Seiki,3755
+2022,Rajasthan,Four-Wheeler,Tata Motors,1752
+2022,Rajasthan,Four-Wheeler,MG Motor,2398
+2022,Rajasthan,Four-Wheeler,Hyundai,1906
+2022,Rajasthan,Four-Wheeler,Mahindra,2888
+2022,Rajasthan,Four-Wheeler,BYD,2025
+2022,Uttar Pradesh,Two-Wheeler,OLA Electric,6981
+2022,Uttar Pradesh,Two-Wheeler,TVS Motor,6835
+2022,Uttar Pradesh,Two-Wheeler,Ather Energy,9344
+2022,Uttar Pradesh,Two-Wheeler,Bajaj Auto,6964
+2022,Uttar Pradesh,Two-Wheeler,Hero Electric,9529
+2022,Uttar Pradesh,Three-Wheeler,Mahindra Electric,5153
+2022,Uttar Pradesh,Three-Wheeler,Piaggio,3451
+2022,Uttar Pradesh,Three-Wheeler,Bajaj Auto,2836
+2022,Uttar Pradesh,Three-Wheeler,Atul Auto,5494
+2022,Uttar Pradesh,Three-Wheeler,Omega Seiki,3827
+2022,Uttar Pradesh,Four-Wheeler,Tata Motors,1798
+2022,Uttar Pradesh,Four-Wheeler,MG Motor,1686
+2022,Uttar Pradesh,Four-Wheeler,Hyundai,1846
+2022,Uttar Pradesh,Four-Wheeler,Mahindra,3172
+2022,Uttar Pradesh,Four-Wheeler,BYD,3594
+2022,Telangana,Two-Wheeler,OLA Electric,6802
+2022,Telangana,Two-Wheeler,TVS Motor,4441
+2022,Telangana,Two-Wheeler,Ather Energy,6535
+2022,Telangana,Two-Wheeler,Bajaj Auto,10581
+2022,Telangana,Two-Wheeler,Hero Electric,7506
+2022,Telangana,Three-Wheeler,Mahindra Electric,4464
+2022,Telangana,Three-Wheeler,Piaggio,4152
+2022,Telangana,Three-Wheeler,Bajaj Auto,1756
+2022,Telangana,Three-Wheeler,Atul Auto,3757
+2022,Telangana,Three-Wheeler,Omega Seiki,3647
+2022,Telangana,Four-Wheeler,Tata Motors,2429
+2022,Telangana,Four-Wheeler,MG Motor,1857
+2022,Telangana,Four-Wheeler,Hyundai,2649
+2022,Telangana,Four-Wheeler,Mahindra,1529
+2022,Telangana,Four-Wheeler,BYD,2213
+2022,Kerala,Two-Wheeler,OLA Electric,5903
+2022,Kerala,Two-Wheeler,TVS Motor,8675
+2022,Kerala,Two-Wheeler,Ather Energy,8243
+2022,Kerala,Two-Wheeler,Bajaj Auto,4848
+2022,Kerala,Two-Wheeler,Hero Electric,6163
+2022,Kerala,Three-Wheeler,Mahindra Electric,1876
+2022,Kerala,Three-Wheeler,Piaggio,3620
+2022,Kerala,Three-Wheeler,Bajaj Auto,3520
+2022,Kerala,Three-Wheeler,Atul Auto,2161
+2022,Kerala,Three-Wheeler,Omega Seiki,2970
+2022,Kerala,Four-Wheeler,Tata Motors,2174
+2022,Kerala,Four-Wheeler,MG Motor,1361
+2022,Kerala,Four-Wheeler,Hyundai,2447
+2022,Kerala,Four-Wheeler,Mahindra,2050
+2022,Kerala,Four-Wheeler,BYD,2476
+2022,Andhra Pradesh,Two-Wheeler,OLA Electric,6723
+2022,Andhra Pradesh,Two-Wheeler,TVS Motor,3603
+2022,Andhra Pradesh,Two-Wheeler,Ather Energy,5509
+2022,Andhra Pradesh,Two-Wheeler,Bajaj Auto,3714
+2022,Andhra Pradesh,Two-Wheeler,Hero Electric,9072
+2022,Andhra Pradesh,Three-Wheeler,Mahindra Electric,3761
+2022,Andhra Pradesh,Three-Wheeler,Piaggio,3642
+2022,Andhra Pradesh,Three-Wheeler,Bajaj Auto,2319
+2022,Andhra Pradesh,Three-Wheeler,Atul Auto,1688
+2022,Andhra Pradesh,Three-Wheeler,Omega Seiki,3759
+2022,Andhra Pradesh,Four-Wheeler,Tata Motors,2949
+2022,Andhra Pradesh,Four-Wheeler,MG Motor,1319
+2022,Andhra Pradesh,Four-Wheeler,Hyundai,2077
+2022,Andhra Pradesh,Four-Wheeler,Mahindra,1288
+2022,Andhra Pradesh,Four-Wheeler,BYD,2597
+2022,West Bengal,Two-Wheeler,OLA Electric,8588
+2022,West Bengal,Two-Wheeler,TVS Motor,4612
+2022,West Bengal,Two-Wheeler,Ather Energy,6775
+2022,West Bengal,Two-Wheeler,Bajaj Auto,7240
+2022,West Bengal,Two-Wheeler,Hero Electric,5464
+2022,West Bengal,Three-Wheeler,Mahindra Electric,3965
+2022,West Bengal,Three-Wheeler,Piaggio,2764
+2022,West Bengal,Three-Wheeler,Bajaj Auto,2199
+2022,West Bengal,Three-Wheeler,Atul Auto,3075
+2022,West Bengal,Three-Wheeler,Omega Seiki,3584
+2022,West Bengal,Four-Wheeler,Tata Motors,1628
+2022,West Bengal,Four-Wheeler,MG Motor,1850
+2022,West Bengal,Four-Wheeler,Hyundai,3220
+2022,West Bengal,Four-Wheeler,Mahindra,2527
+2022,West Bengal,Four-Wheeler,BYD,2103
+2022,Madhya Pradesh,Two-Wheeler,OLA Electric,5866
+2022,Madhya Pradesh,Two-Wheeler,TVS Motor,3805
+2022,Madhya Pradesh,Two-Wheeler,Ather Energy,4344
+2022,Madhya Pradesh,Two-Wheeler,Bajaj Auto,4933
+2022,Madhya Pradesh,Two-Wheeler,Hero Electric,6233
+2022,Madhya Pradesh,Three-Wheeler,Mahindra Electric,1873
+2022,Madhya Pradesh,Three-Wheeler,Piaggio,1851
+2022,Madhya Pradesh,Three-Wheeler,Bajaj Auto,1519
+2022,Madhya Pradesh,Three-Wheeler,Atul Auto,2767
+2022,Madhya Pradesh,Three-Wheeler,Omega Seiki,1871
+2022,Madhya Pradesh,Four-Wheeler,Tata Motors,2533
+2022,Madhya Pradesh,Four-Wheeler,MG Motor,2457
+2022,Madhya Pradesh,Four-Wheeler,Hyundai,1139
+2022,Madhya Pradesh,Four-Wheeler,Mahindra,1418
+2022,Madhya Pradesh,Four-Wheeler,BYD,2138
+2022,Haryana,Two-Wheeler,OLA Electric,4575
+2022,Haryana,Two-Wheeler,TVS Motor,4121
+2022,Haryana,Two-Wheeler,Ather Energy,8574
+2022,Haryana,Two-Wheeler,Bajaj Auto,6553
+2022,Haryana,Two-Wheeler,Hero Electric,6008
+2022,Haryana,Three-Wheeler,Mahindra Electric,3316
+2022,Haryana,Three-Wheeler,Piaggio,3370
+2022,Haryana,Three-Wheeler,Bajaj Auto,1904
+2022,Haryana,Three-Wheeler,Atul Auto,1682
+2022,Haryana,Three-Wheeler,Omega Seiki,2476
+2022,Haryana,Four-Wheeler,Tata Motors,1843
+2022,Haryana,Four-Wheeler,MG Motor,1921
+2022,Haryana,Four-Wheeler,Hyundai,2388
+2022,Haryana,Four-Wheeler,Mahindra,2288
+2022,Haryana,Four-Wheeler,BYD,2842
+2022,Punjab,Two-Wheeler,OLA Electric,3441
+2022,Punjab,Two-Wheeler,TVS Motor,4917
+2022,Punjab,Two-Wheeler,Ather Energy,4610
+2022,Punjab,Two-Wheeler,Bajaj Auto,7144
+2022,Punjab,Two-Wheeler,Hero Electric,4170
+2022,Punjab,Three-Wheeler,Mahindra Electric,1665
+2022,Punjab,Three-Wheeler,Piaggio,2203
+2022,Punjab,Three-Wheeler,Bajaj Auto,2147
+2022,Punjab,Three-Wheeler,Atul Auto,1849
+2022,Punjab,Three-Wheeler,Omega Seiki,1789
+2022,Punjab,Four-Wheeler,Tata Motors,2392
+2022,Punjab,Four-Wheeler,MG Motor,1643
+2022,Punjab,Four-Wheeler,Hyundai,2295
+2022,Punjab,Four-Wheeler,Mahindra,1810
+2022,Punjab,Four-Wheeler,BYD,1031
+2022,Odisha,Two-Wheeler,OLA Electric,7254
+2022,Odisha,Two-Wheeler,TVS Motor,6518
+2022,Odisha,Two-Wheeler,Ather Energy,7117
+2022,Odisha,Two-Wheeler,Bajaj Auto,6925
+2022,Odisha,Two-Wheeler,Hero Electric,6575
+2022,Odisha,Three-Wheeler,Mahindra Electric,1500
+2022,Odisha,Three-Wheeler,Piaggio,2117
+2022,Odisha,Three-Wheeler,Bajaj Auto,1592
+2022,Odisha,Three-Wheeler,Atul Auto,1953
+2022,Odisha,Three-Wheeler,Omega Seiki,1292
+2022,Odisha,Four-Wheeler,Tata Motors,1433
+2022,Odisha,Four-Wheeler,MG Motor,2311
+2022,Odisha,Four-Wheeler,Hyundai,1268
+2022,Odisha,Four-Wheeler,Mahindra,2020
+2022,Odisha,Four-Wheeler,BYD,1543
+2022,Bihar,Two-Wheeler,OLA Electric,5016
+2022,Bihar,Two-Wheeler,TVS Motor,7608
+2022,Bihar,Two-Wheeler,Ather Energy,7793
+2022,Bihar,Two-Wheeler,Bajaj Auto,5660
+2022,Bihar,Two-Wheeler,Hero Electric,6449
+2022,Bihar,Three-Wheeler,Mahindra Electric,1592
+2022,Bihar,Three-Wheeler,Piaggio,1887
+2022,Bihar,Three-Wheeler,Bajaj Auto,3284
+2022,Bihar,Three-Wheeler,Atul Auto,2474
+2022,Bihar,Three-Wheeler,Omega Seiki,2397
+2022,Bihar,Four-Wheeler,Tata Motors,2119
+2022,Bihar,Four-Wheeler,MG Motor,1042
+2022,Bihar,Four-Wheeler,Hyundai,1863
+2022,Bihar,Four-Wheeler,Mahindra,1736
+2022,Bihar,Four-Wheeler,BYD,2282
+2022,Assam,Two-Wheeler,OLA Electric,2929
+2022,Assam,Two-Wheeler,TVS Motor,5991
+2022,Assam,Two-Wheeler,Ather Energy,2634
+2022,Assam,Two-Wheeler,Bajaj Auto,3037
+2022,Assam,Two-Wheeler,Hero Electric,4597
+2022,Assam,Three-Wheeler,Mahindra Electric,2101
+2022,Assam,Three-Wheeler,Piaggio,1382
+2022,Assam,Three-Wheeler,Bajaj Auto,1194
+2022,Assam,Three-Wheeler,Atul Auto,2452
+2022,Assam,Three-Wheeler,Omega Seiki,1400
+2022,Assam,Four-Wheeler,Tata Motors,1477
+2022,Assam,Four-Wheeler,MG Motor,1507
+2022,Assam,Four-Wheeler,Hyundai,1262
+2022,Assam,Four-Wheeler,Mahindra,1463
+2022,Assam,Four-Wheeler,BYD,1389
+2022,Goa,Two-Wheeler,OLA Electric,4820
+2022,Goa,Two-Wheeler,TVS Motor,2542
+2022,Goa,Two-Wheeler,Ather Energy,4139
+2022,Goa,Two-Wheeler,Bajaj Auto,2650
+2022,Goa,Two-Wheeler,Hero Electric,3140
+2022,Goa,Three-Wheeler,Mahindra Electric,1714
+2022,Goa,Three-Wheeler,Piaggio,1217
+2022,Goa,Three-Wheeler,Bajaj Auto,1239
+2022,Goa,Three-Wheeler,Atul Auto,1821
+2022,Goa,Three-Wheeler,Omega Seiki,913
+2022,Goa,Four-Wheeler,Tata Motors,1071
+2022,Goa,Four-Wheeler,MG Motor,1613
+2022,Goa,Four-Wheeler,Hyundai,1611
+2022,Goa,Four-Wheeler,Mahindra,685
+2022,Goa,Four-Wheeler,BYD,826
+2022,Jharkhand,Two-Wheeler,OLA Electric,3036
+2022,Jharkhand,Two-Wheeler,TVS Motor,5351
+2022,Jharkhand,Two-Wheeler,Ather Energy,5169
+2022,Jharkhand,Two-Wheeler,Bajaj Auto,5164
+2022,Jharkhand,Two-Wheeler,Hero Electric,3397
+2022,Jharkhand,Three-Wheeler,Mahindra Electric,1141
+2022,Jharkhand,Three-Wheeler,Piaggio,2145
+2022,Jharkhand,Three-Wheeler,Bajaj Auto,1952
+2022,Jharkhand,Three-Wheeler,Atul Auto,1815
+2022,Jharkhand,Three-Wheeler,Omega Seiki,2373
+2022,Jharkhand,Four-Wheeler,Tata Motors,1408
+2022,Jharkhand,Four-Wheeler,MG Motor,689
+2022,Jharkhand,Four-Wheeler,Hyundai,1590
+2022,Jharkhand,Four-Wheeler,Mahindra,1014
+2022,Jharkhand,Four-Wheeler,BYD,1419
+2022,Chhattisgarh,Two-Wheeler,OLA Electric,5907
+2022,Chhattisgarh,Two-Wheeler,TVS Motor,2841
+2022,Chhattisgarh,Two-Wheeler,Ather Energy,2769
+2022,Chhattisgarh,Two-Wheeler,Bajaj Auto,2737
+2022,Chhattisgarh,Two-Wheeler,Hero Electric,4437
+2022,Chhattisgarh,Three-Wheeler,Mahindra Electric,1443
+2022,Chhattisgarh,Three-Wheeler,Piaggio,1986
+2022,Chhattisgarh,Three-Wheeler,Bajaj Auto,2170
+2022,Chhattisgarh,Three-Wheeler,Atul Auto,1330
+2022,Chhattisgarh,Three-Wheeler,Omega Seiki,2034
+2022,Chhattisgarh,Four-Wheeler,Tata Motors,1072
+2022,Chhattisgarh,Four-Wheeler,MG Motor,1347
+2022,Chhattisgarh,Four-Wheeler,Hyundai,1857
+2022,Chhattisgarh,Four-Wheeler,Mahindra,1785
+2022,Chhattisgarh,Four-Wheeler,BYD,861
+2023,Karnataka,Two-Wheeler,TVS Motor,11407
+2023,Karnataka,Two-Wheeler,Ather Energy,9787
+2023,Karnataka,Two-Wheeler,Bajaj Auto,6776
+2023,Karnataka,Two-Wheeler,Hero Electric,15239
+2023,Karnataka,Three-Wheeler,Piaggio,5897
+2023,Karnataka,Three-Wheeler,Bajaj Auto,4125
+2023,Karnataka,Three-Wheeler,Atul Auto,6389
+2023,Karnataka,Three-Wheeler,Omega Seiki,5494
+2023,Karnataka,Four-Wheeler,MG Motor,3681
+2023,Karnataka,Four-Wheeler,Hyundai,2199
+2023,Karnataka,Four-Wheeler,Mahindra,2432
+2023,Karnataka,Four-Wheeler,BYD,5295
+2023,Maharashtra,Two-Wheeler,OLA Electric,18039
+2023,Maharashtra,Two-Wheeler,Ather Energy,13772
+2023,Maharashtra,Two-Wheeler,Bajaj Auto,17214
+2023,Maharashtra,Two-Wheeler,Hero Electric,14212
+2023,Maharashtra,Three-Wheeler,Piaggio,3874
+2023,Maharashtra,Three-Wheeler,Bajaj Auto,3768
+2023,Maharashtra,Three-Wheeler,Atul Auto,4691
+2023,Maharashtra,Three-Wheeler,Omega Seiki,7706
+2023,Maharashtra,Four-Wheeler,MG Motor,5385
+2023,Maharashtra,Four-Wheeler,Hyundai,5632
+2023,Maharashtra,Four-Wheeler,Mahindra,5779
+2023,Maharashtra,Four-Wheeler,BYD,3142
+2023,Tamil Nadu,Two-Wheeler,OLA Electric,8349
+2023,Tamil Nadu,Two-Wheeler,Ather Energy,6926
+2023,Tamil Nadu,Two-Wheeler,Bajaj Auto,13497
+2023,Tamil Nadu,Two-Wheeler,Hero Electric,14506
+2023,Tamil Nadu,Three-Wheeler,Piaggio,4230
+2023,Tamil Nadu,Three-Wheeler,Bajaj Auto,5121
+2023,Tamil Nadu,Three-Wheeler,Atul Auto,3183
+2023,Tamil Nadu,Three-Wheeler,Omega Seiki,6407
+2023,Tamil Nadu,Four-Wheeler,Tata Motors,4602
+2023,Tamil Nadu,Four-Wheeler,MG Motor,4950
+2023,Tamil Nadu,Four-Wheeler,Mahindra,4434
+2023,Tamil Nadu,Four-Wheeler,BYD,4654
+2023,Delhi,Two-Wheeler,TVS Motor,5328
+2023,Delhi,Two-Wheeler,Ather Energy,11292
+2023,Delhi,Two-Wheeler,Bajaj Auto,7903
+2023,Delhi,Two-Wheeler,Hero Electric,12919
+2023,Delhi,Three-Wheeler,Piaggio,5075
+2023,Delhi,Three-Wheeler,Bajaj Auto,5297
+2023,Delhi,Three-Wheeler,Atul Auto,5105
+2023,Delhi,Three-Wheeler,Omega Seiki,3152
+2023,Delhi,Four-Wheeler,MG Motor,3766
+2023,Delhi,Four-Wheeler,Hyundai,1937
+2023,Delhi,Four-Wheeler,Mahindra,3994
+2023,Delhi,Four-Wheeler,BYD,3958
+2023,Gujarat,Two-Wheeler,OLA Electric,7719
+2023,Gujarat,Two-Wheeler,TVS Motor,13221
+2023,Gujarat,Two-Wheeler,Ather Energy,9922
+2023,Gujarat,Two-Wheeler,Bajaj Auto,8485
+2023,Gujarat,Two-Wheeler,Hero Electric,13025
+2023,Gujarat,Three-Wheeler,Mahindra Electric,3328
+2023,Gujarat,Three-Wheeler,Piaggio,2519
+2023,Gujarat,Three-Wheeler,Bajaj Auto,3192
+2023,Gujarat,Three-Wheeler,Atul Auto,3728
+2023,Gujarat,Three-Wheeler,Omega Seiki,5856
+2023,Gujarat,Four-Wheeler,Tata Motors,4697
+2023,Gujarat,Four-Wheeler,MG Motor,2650
+2023,Gujarat,Four-Wheeler,Hyundai,3728
+2023,Gujarat,Four-Wheeler,Mahindra,3008
+2023,Gujarat,Four-Wheeler,BYD,4739
+2023,Rajasthan,Two-Wheeler,OLA Electric,8601
+2023,Rajasthan,Two-Wheeler,TVS Motor,11622
+2023,Rajasthan,Two-Wheeler,Ather Energy,5446
+2023,Rajasthan,Two-Wheeler,Bajaj Auto,11856
+2023,Rajasthan,Two-Wheeler,Hero Electric,5920
+2023,Rajasthan,Three-Wheeler,Mahindra Electric,5056
+2023,Rajasthan,Three-Wheeler,Piaggio,2816
+2023,Rajasthan,Three-Wheeler,Bajaj Auto,2311
+2023,Rajasthan,Three-Wheeler,Atul Auto,3359
+2023,Rajasthan,Three-Wheeler,Omega Seiki,4304
+2023,Rajasthan,Four-Wheeler,Tata Motors,2228
+2023,Rajasthan,Four-Wheeler,MG Motor,2933
+2023,Rajasthan,Four-Wheeler,Hyundai,2705
+2023,Rajasthan,Four-Wheeler,Mahindra,2400
+2023,Rajasthan,Four-Wheeler,BYD,2862
+2023,Uttar Pradesh,Two-Wheeler,OLA Electric,8782
+2023,Uttar Pradesh,Two-Wheeler,TVS Motor,13387
+2023,Uttar Pradesh,Two-Wheeler,Ather Energy,6215
+2023,Uttar Pradesh,Two-Wheeler,Bajaj Auto,15586
+2023,Uttar Pradesh,Two-Wheeler,Hero Electric,11660
+2023,Uttar Pradesh,Three-Wheeler,Mahindra Electric,5783
+2023,Uttar Pradesh,Three-Wheeler,Piaggio,5881
+2023,Uttar Pradesh,Three-Wheeler,Bajaj Auto,5571
+2023,Uttar Pradesh,Three-Wheeler,Atul Auto,4239
+2023,Uttar Pradesh,Three-Wheeler,Omega Seiki,2960
+2023,Uttar Pradesh,Four-Wheeler,Tata Motors,4157
+2023,Uttar Pradesh,Four-Wheeler,MG Motor,3068
+2023,Uttar Pradesh,Four-Wheeler,Hyundai,3015
+2023,Uttar Pradesh,Four-Wheeler,Mahindra,4757
+2023,Uttar Pradesh,Four-Wheeler,BYD,4338
+2023,Telangana,Two-Wheeler,OLA Electric,7636
+2023,Telangana,Two-Wheeler,TVS Motor,7711
+2023,Telangana,Two-Wheeler,Ather Energy,8542
+2023,Telangana,Two-Wheeler,Bajaj Auto,8492
+2023,Telangana,Two-Wheeler,Hero Electric,7597
+2023,Telangana,Three-Wheeler,Mahindra Electric,2651
+2023,Telangana,Three-Wheeler,Piaggio,3704
+2023,Telangana,Three-Wheeler,Bajaj Auto,5571
+2023,Telangana,Three-Wheeler,Atul Auto,4626
+2023,Telangana,Three-Wheeler,Omega Seiki,5436
+2023,Telangana,Four-Wheeler,Tata Motors,3303
+2023,Telangana,Four-Wheeler,MG Motor,2456
+2023,Telangana,Four-Wheeler,Hyundai,3121
+2023,Telangana,Four-Wheeler,Mahindra,1646
+2023,Telangana,Four-Wheeler,BYD,2418
+2023,Kerala,Two-Wheeler,OLA Electric,7345
+2023,Kerala,Two-Wheeler,TVS Motor,8404
+2023,Kerala,Two-Wheeler,Ather Energy,8931
+2023,Kerala,Two-Wheeler,Bajaj Auto,7592
+2023,Kerala,Two-Wheeler,Hero Electric,7431
+2023,Kerala,Three-Wheeler,Mahindra Electric,2494
+2023,Kerala,Three-Wheeler,Piaggio,3278
+2023,Kerala,Three-Wheeler,Bajaj Auto,4573
+2023,Kerala,Three-Wheeler,Atul Auto,4255
+2023,Kerala,Three-Wheeler,Omega Seiki,2361
+2023,Kerala,Four-Wheeler,Tata Motors,1578
+2023,Kerala,Four-Wheeler,MG Motor,2555
+2023,Kerala,Four-Wheeler,Hyundai,2821
+2023,Kerala,Four-Wheeler,Mahindra,2146
+2023,Kerala,Four-Wheeler,BYD,3242
+2023,Andhra Pradesh,Two-Wheeler,OLA Electric,10212
+2023,Andhra Pradesh,Two-Wheeler,TVS Motor,9625
+2023,Andhra Pradesh,Two-Wheeler,Ather Energy,6265
+2023,Andhra Pradesh,Two-Wheeler,Bajaj Auto,6074
+2023,Andhra Pradesh,Two-Wheeler,Hero Electric,4764
+2023,Andhra Pradesh,Three-Wheeler,Mahindra Electric,2750
+2023,Andhra Pradesh,Three-Wheeler,Piaggio,3490
+2023,Andhra Pradesh,Three-Wheeler,Bajaj Auto,4693
+2023,Andhra Pradesh,Three-Wheeler,Atul Auto,2197
+2023,Andhra Pradesh,Three-Wheeler,Omega Seiki,3295
+2023,Andhra Pradesh,Four-Wheeler,Tata Motors,2990
+2023,Andhra Pradesh,Four-Wheeler,MG Motor,1941
+2023,Andhra Pradesh,Four-Wheeler,Hyundai,3150
+2023,Andhra Pradesh,Four-Wheeler,Mahindra,2663
+2023,Andhra Pradesh,Four-Wheeler,BYD,2060
+2023,West Bengal,Two-Wheeler,OLA Electric,10058
+2023,West Bengal,Two-Wheeler,TVS Motor,4895
+2023,West Bengal,Two-Wheeler,Ather Energy,10812
+2023,West Bengal,Two-Wheeler,Bajaj Auto,10963
+2023,West Bengal,Two-Wheeler,Hero Electric,5697
+2023,West Bengal,Three-Wheeler,Mahindra Electric,3525
+2023,West Bengal,Three-Wheeler,Piaggio,2677
+2023,West Bengal,Three-Wheeler,Bajaj Auto,5338
+2023,West Bengal,Three-Wheeler,Atul Auto,3841
+2023,West Bengal,Three-Wheeler,Omega Seiki,2249
+2023,West Bengal,Four-Wheeler,Tata Motors,2195
+2023,West Bengal,Four-Wheeler,MG Motor,3723
+2023,West Bengal,Four-Wheeler,Hyundai,2723
+2023,West Bengal,Four-Wheeler,Mahindra,3604
+2023,West Bengal,Four-Wheeler,BYD,3262
+2023,Madhya Pradesh,Two-Wheeler,OLA Electric,10577
+2023,Madhya Pradesh,Two-Wheeler,TVS Motor,7981
+2023,Madhya Pradesh,Two-Wheeler,Ather Energy,10327
+2023,Madhya Pradesh,Two-Wheeler,Bajaj Auto,9939
+2023,Madhya Pradesh,Two-Wheeler,Hero Electric,8095
+2023,Madhya Pradesh,Three-Wheeler,Mahindra Electric,3771
+2023,Madhya Pradesh,Three-Wheeler,Piaggio,3163
+2023,Madhya Pradesh,Three-Wheeler,Bajaj Auto,4087
+2023,Madhya Pradesh,Three-Wheeler,Atul Auto,3285
+2023,Madhya Pradesh,Three-Wheeler,Omega Seiki,4276
+2023,Madhya Pradesh,Four-Wheeler,Tata Motors,2880
+2023,Madhya Pradesh,Four-Wheeler,MG Motor,2308
+2023,Madhya Pradesh,Four-Wheeler,Hyundai,1850
+2023,Madhya Pradesh,Four-Wheeler,Mahindra,1825
+2023,Madhya Pradesh,Four-Wheeler,BYD,2655
+2023,Haryana,Two-Wheeler,OLA Electric,9715
+2023,Haryana,Two-Wheeler,TVS Motor,7990
+2023,Haryana,Two-Wheeler,Ather Energy,8734
+2023,Haryana,Two-Wheeler,Bajaj Auto,6249
+2023,Haryana,Two-Wheeler,Hero Electric,4858
+2023,Haryana,Three-Wheeler,Mahindra Electric,2712
+2023,Haryana,Three-Wheeler,Piaggio,2669
+2023,Haryana,Three-Wheeler,Bajaj Auto,2814
+2023,Haryana,Three-Wheeler,Atul Auto,3481
+2023,Haryana,Three-Wheeler,Omega Seiki,2266
+2023,Haryana,Four-Wheeler,Tata Motors,1910
+2023,Haryana,Four-Wheeler,MG Motor,2959
+2023,Haryana,Four-Wheeler,Hyundai,2988
+2023,Haryana,Four-Wheeler,Mahindra,1531
+2023,Haryana,Four-Wheeler,BYD,2310
+2023,Punjab,Two-Wheeler,OLA Electric,7123
+2023,Punjab,Two-Wheeler,TVS Motor,6339
+2023,Punjab,Two-Wheeler,Ather Energy,5049
+2023,Punjab,Two-Wheeler,Bajaj Auto,6366
+2023,Punjab,Two-Wheeler,Hero Electric,9359
+2023,Punjab,Three-Wheeler,Mahindra Electric,3162
+2023,Punjab,Three-Wheeler,Piaggio,3457
+2023,Punjab,Three-Wheeler,Bajaj Auto,3883
+2023,Punjab,Three-Wheeler,Atul Auto,3642
+2023,Punjab,Three-Wheeler,Omega Seiki,2623
+2023,Punjab,Four-Wheeler,Tata Motors,1224
+2023,Punjab,Four-Wheeler,MG Motor,1910
+2023,Punjab,Four-Wheeler,Hyundai,2708
+2023,Punjab,Four-Wheeler,Mahindra,2906
+2023,Punjab,Four-Wheeler,BYD,3104
+2023,Odisha,Two-Wheeler,OLA Electric,5905
+2023,Odisha,Two-Wheeler,TVS Motor,7789
+2023,Odisha,Two-Wheeler,Ather Energy,6634
+2023,Odisha,Two-Wheeler,Bajaj Auto,6961
+2023,Odisha,Two-Wheeler,Hero Electric,4767
+2023,Odisha,Three-Wheeler,Mahindra Electric,2040
+2023,Odisha,Three-Wheeler,Piaggio,2572
+2023,Odisha,Three-Wheeler,Bajaj Auto,1572
+2023,Odisha,Three-Wheeler,Atul Auto,2327
+2023,Odisha,Three-Wheeler,Omega Seiki,3170
+2023,Odisha,Four-Wheeler,Tata Motors,1871
+2023,Odisha,Four-Wheeler,MG Motor,1430
+2023,Odisha,Four-Wheeler,Hyundai,1987
+2023,Odisha,Four-Wheeler,Mahindra,1361
+2023,Odisha,Four-Wheeler,BYD,2272
+2023,Bihar,Two-Wheeler,OLA Electric,3939
+2023,Bihar,Two-Wheeler,TVS Motor,6205
+2023,Bihar,Two-Wheeler,Ather Energy,7257
+2023,Bihar,Two-Wheeler,Bajaj Auto,3940
+2023,Bihar,Two-Wheeler,Hero Electric,7741
+2023,Bihar,Three-Wheeler,Mahindra Electric,1976
+2023,Bihar,Three-Wheeler,Piaggio,2838
+2023,Bihar,Three-Wheeler,Bajaj Auto,1750
+2023,Bihar,Three-Wheeler,Atul Auto,2620
+2023,Bihar,Three-Wheeler,Omega Seiki,2177
+2023,Bihar,Four-Wheeler,Tata Motors,1861
+2023,Bihar,Four-Wheeler,MG Motor,2723
+2023,Bihar,Four-Wheeler,Hyundai,1965
+2023,Bihar,Four-Wheeler,Mahindra,2705
+2023,Bihar,Four-Wheeler,BYD,2863
+2023,Assam,Two-Wheeler,OLA Electric,4188
+2023,Assam,Two-Wheeler,TVS Motor,3361
+2023,Assam,Two-Wheeler,Ather Energy,3058
+2023,Assam,Two-Wheeler,Bajaj Auto,5581
+2023,Assam,Two-Wheeler,Hero Electric,7815
+2023,Assam,Three-Wheeler,Mahindra Electric,1998
+2023,Assam,Three-Wheeler,Piaggio,2622
+2023,Assam,Three-Wheeler,Bajaj Auto,2894
+2023,Assam,Three-Wheeler,Atul Auto,2625
+2023,Assam,Three-Wheeler,Omega Seiki,2838
+2023,Assam,Four-Wheeler,Tata Motors,2433
+2023,Assam,Four-Wheeler,MG Motor,1263
+2023,Assam,Four-Wheeler,Hyundai,984
+2023,Assam,Four-Wheeler,Mahindra,1190
+2023,Assam,Four-Wheeler,BYD,1149
+2023,Goa,Two-Wheeler,OLA Electric,5082
+2023,Goa,Two-Wheeler,TVS Motor,4663
+2023,Goa,Two-Wheeler,Ather Energy,3290
+2023,Goa,Two-Wheeler,Bajaj Auto,5201
+2023,Goa,Two-Wheeler,Hero Electric,5469
+2023,Goa,Three-Wheeler,Mahindra Electric,1324
+2023,Goa,Three-Wheeler,Piaggio,2072
+2023,Goa,Three-Wheeler,Bajaj Auto,2311
+2023,Goa,Three-Wheeler,Atul Auto,1234
+2023,Goa,Three-Wheeler,Omega Seiki,2433
+2023,Goa,Four-Wheeler,Tata Motors,2010
+2023,Goa,Four-Wheeler,MG Motor,917
+2023,Goa,Four-Wheeler,Hyundai,812
+2023,Goa,Four-Wheeler,Mahindra,1177
+2023,Goa,Four-Wheeler,BYD,1643
+2023,Jharkhand,Two-Wheeler,OLA Electric,6920
+2023,Jharkhand,Two-Wheeler,TVS Motor,4444
+2023,Jharkhand,Two-Wheeler,Ather Energy,5848
+2023,Jharkhand,Two-Wheeler,Bajaj Auto,3030
+2023,Jharkhand,Two-Wheeler,Hero Electric,5740
+2023,Jharkhand,Three-Wheeler,Mahindra Electric,2340
+2023,Jharkhand,Three-Wheeler,Piaggio,1347
+2023,Jharkhand,Three-Wheeler,Bajaj Auto,2614
+2023,Jharkhand,Three-Wheeler,Atul Auto,2762
+2023,Jharkhand,Three-Wheeler,Omega Seiki,2289
+2023,Jharkhand,Four-Wheeler,Tata Motors,1037
+2023,Jharkhand,Four-Wheeler,MG Motor,2260
+2023,Jharkhand,Four-Wheeler,Hyundai,1975
+2023,Jharkhand,Four-Wheeler,Mahindra,1358
+2023,Jharkhand,Four-Wheeler,BYD,1473
+2023,Chhattisgarh,Two-Wheeler,OLA Electric,4762
+2023,Chhattisgarh,Two-Wheeler,TVS Motor,5418
+2023,Chhattisgarh,Two-Wheeler,Ather Energy,4619
+2023,Chhattisgarh,Two-Wheeler,Bajaj Auto,7085
+2023,Chhattisgarh,Two-Wheeler,Hero Electric,6953
+2023,Chhattisgarh,Three-Wheeler,Mahindra Electric,1489
+2023,Chhattisgarh,Three-Wheeler,Piaggio,3267
+2023,Chhattisgarh,Three-Wheeler,Bajaj Auto,2591
+2023,Chhattisgarh,Three-Wheeler,Atul Auto,2993
+2023,Chhattisgarh,Three-Wheeler,Omega Seiki,2740
+2023,Chhattisgarh,Four-Wheeler,Tata Motors,1631
+2023,Chhattisgarh,Four-Wheeler,MG Motor,2097
+2023,Chhattisgarh,Four-Wheeler,Hyundai,2458
+2023,Chhattisgarh,Four-Wheeler,Mahindra,1374
+2023,Chhattisgarh,Four-Wheeler,BYD,2213
+2024,Karnataka,Two-Wheeler,TVS Motor,15567
+2024,Karnataka,Two-Wheeler,Ather Energy,14826
+2024,Karnataka,Two-Wheeler,Bajaj Auto,14177
+2024,Karnataka,Two-Wheeler,Hero Electric,18179
+2024,Karnataka,Three-Wheeler,Piaggio,5105
+2024,Karnataka,Three-Wheeler,Bajaj Auto,8491
+2024,Karnataka,Three-Wheeler,Atul Auto,8369
+2024,Karnataka,Three-Wheeler,Omega Seiki,4050
+2024,Karnataka,Four-Wheeler,MG Motor,6499
+2024,Karnataka,Four-Wheeler,Hyundai,3722
+2024,Karnataka,Four-Wheeler,Mahindra,4683
+2024,Karnataka,Four-Wheeler,BYD,5317
+2024,Maharashtra,Two-Wheeler,OLA Electric,14483
+2024,Maharashtra,Two-Wheeler,Ather Energy,9359
+2024,Maharashtra,Two-Wheeler,Bajaj Auto,21387
+2024,Maharashtra,Two-Wheeler,Hero Electric,11599
+2024,Maharashtra,Three-Wheeler,Piaggio,5161
+2024,Maharashtra,Three-Wheeler,Bajaj Auto,8833
+2024,Maharashtra,Three-Wheeler,Atul Auto,5965
+2024,Maharashtra,Three-Wheeler,Omega Seiki,9350
+2024,Maharashtra,Four-Wheeler,MG Motor,6170
+2024,Maharashtra,Four-Wheeler,Hyundai,4172
+2024,Maharashtra,Four-Wheeler,Mahindra,2921
+2024,Maharashtra,Four-Wheeler,BYD,7331
+2024,Tamil Nadu,Two-Wheeler,OLA Electric,8304
+2024,Tamil Nadu,Two-Wheeler,Ather Energy,15867
+2024,Tamil Nadu,Two-Wheeler,Bajaj Auto,13107
+2024,Tamil Nadu,Two-Wheeler,Hero Electric,16321
+2024,Tamil Nadu,Three-Wheeler,Piaggio,6649
+2024,Tamil Nadu,Three-Wheeler,Bajaj Auto,6421
+2024,Tamil Nadu,Three-Wheeler,Atul Auto,5629
+2024,Tamil Nadu,Three-Wheeler,Omega Seiki,7172
+2024,Tamil Nadu,Four-Wheeler,Tata Motors,2697
+2024,Tamil Nadu,Four-Wheeler,MG Motor,3190
+2024,Tamil Nadu,Four-Wheeler,Mahindra,4991
+2024,Tamil Nadu,Four-Wheeler,BYD,3514
+2024,Delhi,Two-Wheeler,TVS Motor,12277
+2024,Delhi,Two-Wheeler,Ather Energy,11162
+2024,Delhi,Two-Wheeler,Bajaj Auto,11756
+2024,Delhi,Two-Wheeler,Hero Electric,10671
+2024,Delhi,Three-Wheeler,Piaggio,5987
+2024,Delhi,Three-Wheeler,Bajaj Auto,4155
+2024,Delhi,Three-Wheeler,Atul Auto,5796
+2024,Delhi,Three-Wheeler,Omega Seiki,3891
+2024,Delhi,Four-Wheeler,MG Motor,2853
+2024,Delhi,Four-Wheeler,Hyundai,2421
+2024,Delhi,Four-Wheeler,Mahindra,2659
+2024,Delhi,Four-Wheeler,BYD,2417
+2024,Gujarat,Two-Wheeler,OLA Electric,13050
+2024,Gujarat,Two-Wheeler,TVS Motor,15625
+2024,Gujarat,Two-Wheeler,Ather Energy,9059
+2024,Gujarat,Two-Wheeler,Bajaj Auto,9415
+2024,Gujarat,Two-Wheeler,Hero Electric,12462
+2024,Gujarat,Three-Wheeler,Mahindra Electric,6513
+2024,Gujarat,Three-Wheeler,Piaggio,7742
+2024,Gujarat,Three-Wheeler,Bajaj Auto,5538
+2024,Gujarat,Three-Wheeler,Atul Auto,4359
+2024,Gujarat,Three-Wheeler,Omega Seiki,3470
+2024,Gujarat,Four-Wheeler,Tata Motors,2944
+2024,Gujarat,Four-Wheeler,MG Motor,3066
+2024,Gujarat,Four-Wheeler,Hyundai,2891
+2024,Gujarat,Four-Wheeler,Mahindra,2286
+2024,Gujarat,Four-Wheeler,BYD,4188
+2024,Rajasthan,Two-Wheeler,OLA Electric,8155
+2024,Rajasthan,Two-Wheeler,TVS Motor,14602
+2024,Rajasthan,Two-Wheeler,Ather Energy,10725
+2024,Rajasthan,Two-Wheeler,Bajaj Auto,12052
+2024,Rajasthan,Two-Wheeler,Hero Electric,6791
+2024,Rajasthan,Three-Wheeler,Mahindra Electric,5840
+2024,Rajasthan,Three-Wheeler,Piaggio,4349
+2024,Rajasthan,Three-Wheeler,Bajaj Auto,5857
+2024,Rajasthan,Three-Wheeler,Atul Auto,4678
+2024,Rajasthan,Three-Wheeler,Omega Seiki,4265
+2024,Rajasthan,Four-Wheeler,Tata Motors,3113
+2024,Rajasthan,Four-Wheeler,MG Motor,2355
+2024,Rajasthan,Four-Wheeler,Hyundai,1961
+2024,Rajasthan,Four-Wheeler,Mahindra,4595
+2024,Rajasthan,Four-Wheeler,BYD,3223
+2024,Uttar Pradesh,Two-Wheeler,OLA Electric,17860
+2024,Uttar Pradesh,Two-Wheeler,TVS Motor,12608
+2024,Uttar Pradesh,Two-Wheeler,Ather Energy,8538
+2024,Uttar Pradesh,Two-Wheeler,Bajaj Auto,15459
+2024,Uttar Pradesh,Two-Wheeler,Hero Electric,8283
+2024,Uttar Pradesh,Three-Wheeler,Mahindra Electric,4060
+2024,Uttar Pradesh,Three-Wheeler,Piaggio,6269
+2024,Uttar Pradesh,Three-Wheeler,Bajaj Auto,4886
+2024,Uttar Pradesh,Three-Wheeler,Atul Auto,8571
+2024,Uttar Pradesh,Three-Wheeler,Omega Seiki,3896
+2024,Uttar Pradesh,Four-Wheeler,Tata Motors,5509
+2024,Uttar Pradesh,Four-Wheeler,MG Motor,4876
+2024,Uttar Pradesh,Four-Wheeler,Hyundai,5615
+2024,Uttar Pradesh,Four-Wheeler,Mahindra,3351
+2024,Uttar Pradesh,Four-Wheeler,BYD,4540
+2024,Telangana,Two-Wheeler,OLA Electric,10928
+2024,Telangana,Two-Wheeler,TVS Motor,10848
+2024,Telangana,Two-Wheeler,Ather Energy,15145
+2024,Telangana,Two-Wheeler,Bajaj Auto,16482
+2024,Telangana,Two-Wheeler,Hero Electric,9434
+2024,Telangana,Three-Wheeler,Mahindra Electric,5435
+2024,Telangana,Three-Wheeler,Piaggio,5385
+2024,Telangana,Three-Wheeler,Bajaj Auto,5961
+2024,Telangana,Three-Wheeler,Atul Auto,6876
+2024,Telangana,Three-Wheeler,Omega Seiki,3612
+2024,Telangana,Four-Wheeler,Tata Motors,2720
+2024,Telangana,Four-Wheeler,MG Motor,4207
+2024,Telangana,Four-Wheeler,Hyundai,2541
+2024,Telangana,Four-Wheeler,Mahindra,2597
+2024,Telangana,Four-Wheeler,BYD,2270
+2024,Kerala,Two-Wheeler,OLA Electric,5320
+2024,Kerala,Two-Wheeler,TVS Motor,9202
+2024,Kerala,Two-Wheeler,Ather Energy,10445
+2024,Kerala,Two-Wheeler,Bajaj Auto,7822
+2024,Kerala,Two-Wheeler,Hero Electric,7304
+2024,Kerala,Three-Wheeler,Mahindra Electric,4896
+2024,Kerala,Three-Wheeler,Piaggio,4882
+2024,Kerala,Three-Wheeler,Bajaj Auto,3957
+2024,Kerala,Three-Wheeler,Atul Auto,4824
+2024,Kerala,Three-Wheeler,Omega Seiki,5702
+2024,Kerala,Four-Wheeler,Tata Motors,3898
+2024,Kerala,Four-Wheeler,MG Motor,3444
+2024,Kerala,Four-Wheeler,Hyundai,3545
+2024,Kerala,Four-Wheeler,Mahindra,4304
+2024,Kerala,Four-Wheeler,BYD,2887
+2024,Andhra Pradesh,Two-Wheeler,OLA Electric,10644
+2024,Andhra Pradesh,Two-Wheeler,TVS Motor,11593
+2024,Andhra Pradesh,Two-Wheeler,Ather Energy,13995
+2024,Andhra Pradesh,Two-Wheeler,Bajaj Auto,13242
+2024,Andhra Pradesh,Two-Wheeler,Hero Electric,6286
+2024,Andhra Pradesh,Three-Wheeler,Mahindra Electric,3067
+2024,Andhra Pradesh,Three-Wheeler,Piaggio,3626
+2024,Andhra Pradesh,Three-Wheeler,Bajaj Auto,5368
+2024,Andhra Pradesh,Three-Wheeler,Atul Auto,4659
+2024,Andhra Pradesh,Three-Wheeler,Omega Seiki,3551
+2024,Andhra Pradesh,Four-Wheeler,Tata Motors,2177
+2024,Andhra Pradesh,Four-Wheeler,MG Motor,3848
+2024,Andhra Pradesh,Four-Wheeler,Hyundai,3880
+2024,Andhra Pradesh,Four-Wheeler,Mahindra,4600
+2024,Andhra Pradesh,Four-Wheeler,BYD,3290
+2024,West Bengal,Two-Wheeler,OLA Electric,10775
+2024,West Bengal,Two-Wheeler,TVS Motor,6744
+2024,West Bengal,Two-Wheeler,Ather Energy,6348
+2024,West Bengal,Two-Wheeler,Bajaj Auto,10173
+2024,West Bengal,Two-Wheeler,Hero Electric,9103
+2024,West Bengal,Three-Wheeler,Mahindra Electric,3600
+2024,West Bengal,Three-Wheeler,Piaggio,2935
+2024,West Bengal,Three-Wheeler,Bajaj Auto,6574
+2024,West Bengal,Three-Wheeler,Atul Auto,6048
+2024,West Bengal,Three-Wheeler,Omega Seiki,4958
+2024,West Bengal,Four-Wheeler,Tata Motors,4896
+2024,West Bengal,Four-Wheeler,MG Motor,5049
+2024,West Bengal,Four-Wheeler,Hyundai,4023
+2024,West Bengal,Four-Wheeler,Mahindra,2760
+2024,West Bengal,Four-Wheeler,BYD,2041
+2024,Madhya Pradesh,Two-Wheeler,OLA Electric,11112
+2024,Madhya Pradesh,Two-Wheeler,TVS Motor,8790
+2024,Madhya Pradesh,Two-Wheeler,Ather Energy,10261
+2024,Madhya Pradesh,Two-Wheeler,Bajaj Auto,12411
+2024,Madhya Pradesh,Two-Wheeler,Hero Electric,6441
+2024,Madhya Pradesh,Three-Wheeler,Mahindra Electric,4167
+2024,Madhya Pradesh,Three-Wheeler,Piaggio,4339
+2024,Madhya Pradesh,Three-Wheeler,Bajaj Auto,3841
+2024,Madhya Pradesh,Three-Wheeler,Atul Auto,2446
+2024,Madhya Pradesh,Three-Wheeler,Omega Seiki,3340
+2024,Madhya Pradesh,Four-Wheeler,Tata Motors,2467
+2024,Madhya Pradesh,Four-Wheeler,MG Motor,3346
+2024,Madhya Pradesh,Four-Wheeler,Hyundai,3836
+2024,Madhya Pradesh,Four-Wheeler,Mahindra,2457
+2024,Madhya Pradesh,Four-Wheeler,BYD,3408
+2024,Haryana,Two-Wheeler,OLA Electric,7796
+2024,Haryana,Two-Wheeler,TVS Motor,13491
+2024,Haryana,Two-Wheeler,Ather Energy,12350
+2024,Haryana,Two-Wheeler,Bajaj Auto,10066
+2024,Haryana,Two-Wheeler,Hero Electric,9240
+2024,Haryana,Three-Wheeler,Mahindra Electric,3438
+2024,Haryana,Three-Wheeler,Piaggio,3471
+2024,Haryana,Three-Wheeler,Bajaj Auto,5874
+2024,Haryana,Three-Wheeler,Atul Auto,3771
+2024,Haryana,Three-Wheeler,Omega Seiki,4182
+2024,Haryana,Four-Wheeler,Tata Motors,4456
+2024,Haryana,Four-Wheeler,MG Motor,3535
+2024,Haryana,Four-Wheeler,Hyundai,3214
+2024,Haryana,Four-Wheeler,Mahindra,2854
+2024,Haryana,Four-Wheeler,BYD,2225
+2024,Punjab,Two-Wheeler,OLA Electric,7379
+2024,Punjab,Two-Wheeler,TVS Motor,10373
+2024,Punjab,Two-Wheeler,Ather Energy,9379
+2024,Punjab,Two-Wheeler,Bajaj Auto,10400
+2024,Punjab,Two-Wheeler,Hero Electric,6179
+2024,Punjab,Three-Wheeler,Mahindra Electric,3772
+2024,Punjab,Three-Wheeler,Piaggio,5002
+2024,Punjab,Three-Wheeler,Bajaj Auto,3410
+2024,Punjab,Three-Wheeler,Atul Auto,4256
+2024,Punjab,Three-Wheeler,Omega Seiki,2381
+2024,Punjab,Four-Wheeler,Tata Motors,3862
+2024,Punjab,Four-Wheeler,MG Motor,2974
+2024,Punjab,Four-Wheeler,Hyundai,2073
+2024,Punjab,Four-Wheeler,Mahindra,1876
+2024,Punjab,Four-Wheeler,BYD,2832
+2024,Odisha,Two-Wheeler,OLA Electric,8194
+2024,Odisha,Two-Wheeler,TVS Motor,4960
+2024,Odisha,Two-Wheeler,Ather Energy,11293
+2024,Odisha,Two-Wheeler,Bajaj Auto,10734
+2024,Odisha,Two-Wheeler,Hero Electric,7554
+2024,Odisha,Three-Wheeler,Mahindra Electric,2199
+2024,Odisha,Three-Wheeler,Piaggio,4356
+2024,Odisha,Three-Wheeler,Bajaj Auto,3349
+2024,Odisha,Three-Wheeler,Atul Auto,4007
+2024,Odisha,Three-Wheeler,Omega Seiki,3380
+2024,Odisha,Four-Wheeler,Tata Motors,2002
+2024,Odisha,Four-Wheeler,MG Motor,3273
+2024,Odisha,Four-Wheeler,Hyundai,3602
+2024,Odisha,Four-Wheeler,Mahindra,1935
+2024,Odisha,Four-Wheeler,BYD,2631
+2024,Bihar,Two-Wheeler,OLA Electric,7544
+2024,Bihar,Two-Wheeler,TVS Motor,11627
+2024,Bihar,Two-Wheeler,Ather Energy,8490
+2024,Bihar,Two-Wheeler,Bajaj Auto,11305
+2024,Bihar,Two-Wheeler,Hero Electric,11189
+2024,Bihar,Three-Wheeler,Mahindra Electric,2884
+2024,Bihar,Three-Wheeler,Piaggio,4554
+2024,Bihar,Three-Wheeler,Bajaj Auto,3335
+2024,Bihar,Three-Wheeler,Atul Auto,5023
+2024,Bihar,Three-Wheeler,Omega Seiki,3637
+2024,Bihar,Four-Wheeler,Tata Motors,3490
+2024,Bihar,Four-Wheeler,MG Motor,2179
+2024,Bihar,Four-Wheeler,Hyundai,2217
+2024,Bihar,Four-Wheeler,Mahindra,2920
+2024,Bihar,Four-Wheeler,BYD,3925
+2024,Assam,Two-Wheeler,OLA Electric,6560
+2024,Assam,Two-Wheeler,TVS Motor,4527
+2024,Assam,Two-Wheeler,Ather Energy,6851
+2024,Assam,Two-Wheeler,Bajaj Auto,5698
+2024,Assam,Two-Wheeler,Hero Electric,6931
+2024,Assam,Three-Wheeler,Mahindra Electric,2948
+2024,Assam,Three-Wheeler,Piaggio,2723
+2024,Assam,Three-Wheeler,Bajaj Auto,2382
+2024,Assam,Three-Wheeler,Atul Auto,2042
+2024,Assam,Three-Wheeler,Omega Seiki,3342
+2024,Assam,Four-Wheeler,Tata Motors,2266
+2024,Assam,Four-Wheeler,MG Motor,1618
+2024,Assam,Four-Wheeler,Hyundai,2656
+2024,Assam,Four-Wheeler,Mahindra,1254
+2024,Assam,Four-Wheeler,BYD,2597
+2024,Goa,Two-Wheeler,OLA Electric,6418
+2024,Goa,Two-Wheeler,TVS Motor,6936
+2024,Goa,Two-Wheeler,Ather Energy,4862
+2024,Goa,Two-Wheeler,Bajaj Auto,6216
+2024,Goa,Two-Wheeler,Hero Electric,6982
+2024,Goa,Three-Wheeler,Mahindra Electric,3326
+2024,Goa,Three-Wheeler,Piaggio,2312
+2024,Goa,Three-Wheeler,Bajaj Auto,1354
+2024,Goa,Three-Wheeler,Atul Auto,2326
+2024,Goa,Three-Wheeler,Omega Seiki,2510
+2024,Goa,Four-Wheeler,Tata Motors,2320
+2024,Goa,Four-Wheeler,MG Motor,2327
+2024,Goa,Four-Wheeler,Hyundai,1647
+2024,Goa,Four-Wheeler,Mahindra,1782
+2024,Goa,Four-Wheeler,BYD,1673
+2024,Jharkhand,Two-Wheeler,OLA Electric,7225
+2024,Jharkhand,Two-Wheeler,TVS Motor,5532
+2024,Jharkhand,Two-Wheeler,Ather Energy,6858
+2024,Jharkhand,Two-Wheeler,Bajaj Auto,4147
+2024,Jharkhand,Two-Wheeler,Hero Electric,5854
+2024,Jharkhand,Three-Wheeler,Mahindra Electric,3669
+2024,Jharkhand,Three-Wheeler,Piaggio,2205
+2024,Jharkhand,Three-Wheeler,Bajaj Auto,3027
+2024,Jharkhand,Three-Wheeler,Atul Auto,2927
+2024,Jharkhand,Three-Wheeler,Omega Seiki,3396
+2024,Jharkhand,Four-Wheeler,Tata Motors,2548
+2024,Jharkhand,Four-Wheeler,MG Motor,2560
+2024,Jharkhand,Four-Wheeler,Hyundai,1726
+2024,Jharkhand,Four-Wheeler,Mahindra,1615
+2024,Jharkhand,Four-Wheeler,BYD,2315
+2024,Chhattisgarh,Two-Wheeler,OLA Electric,8167
+2024,Chhattisgarh,Two-Wheeler,TVS Motor,8841
+2024,Chhattisgarh,Two-Wheeler,Ather Energy,3856
+2024,Chhattisgarh,Two-Wheeler,Bajaj Auto,4049
+2024,Chhattisgarh,Two-Wheeler,Hero Electric,7403
+2024,Chhattisgarh,Three-Wheeler,Mahindra Electric,3913
+2024,Chhattisgarh,Three-Wheeler,Piaggio,4108
+2024,Chhattisgarh,Three-Wheeler,Bajaj Auto,3468
+2024,Chhattisgarh,Three-Wheeler,Atul Auto,2669
+2024,Chhattisgarh,Three-Wheeler,Omega Seiki,1812
+2024,Chhattisgarh,Four-Wheeler,Tata Motors,2384
+2024,Chhattisgarh,Four-Wheeler,MG Motor,2842
+2024,Chhattisgarh,Four-Wheeler,Hyundai,2020
+2024,Chhattisgarh,Four-Wheeler,Mahindra,2500
+2024,Chhattisgarh,Four-Wheeler,BYD,2901
+2025,Karnataka,Two-Wheeler,TVS Motor,10349
+2025,Karnataka,Two-Wheeler,Ather Energy,22164
+2025,Karnataka,Two-Wheeler,Bajaj Auto,14245
+2025,Karnataka,Two-Wheeler,Hero Electric,15528
+2025,Karnataka,Three-Wheeler,Piaggio,5107
+2025,Karnataka,Three-Wheeler,Bajaj Auto,7710
+2025,Karnataka,Three-Wheeler,Atul Auto,7945
+2025,Karnataka,Three-Wheeler,Omega Seiki,9474
+2025,Karnataka,Four-Wheeler,MG Motor,3954
+2025,Karnataka,Four-Wheeler,Hyundai,3493
+2025,Karnataka,Four-Wheeler,Mahindra,7502
+2025,Karnataka,Four-Wheeler,BYD,6231
+2025,Maharashtra,Two-Wheeler,OLA Electric,14491
+2025,Maharashtra,Two-Wheeler,Ather Energy,25922
+2025,Maharashtra,Two-Wheeler,Bajaj Auto,12829
+2025,Maharashtra,Two-Wheeler,Hero Electric,18239
+2025,Maharashtra,Three-Wheeler,Piaggio,6306
+2025,Maharashtra,Three-Wheeler,Bajaj Auto,6316
+2025,Maharashtra,Three-Wheeler,Atul Auto,4523
+2025,Maharashtra,Three-Wheeler,Omega Seiki,10320
+2025,Maharashtra,Four-Wheeler,MG Motor,8268
+2025,Maharashtra,Four-Wheeler,Hyundai,7046
+2025,Maharashtra,Four-Wheeler,Mahindra,4204
+2025,Maharashtra,Four-Wheeler,BYD,5756
+2025,Tamil Nadu,Two-Wheeler,OLA Electric,13259
+2025,Tamil Nadu,Two-Wheeler,Ather Energy,16613
+2025,Tamil Nadu,Two-Wheeler,Bajaj Auto,17325
+2025,Tamil Nadu,Two-Wheeler,Hero Electric,14350
+2025,Tamil Nadu,Three-Wheeler,Piaggio,5115
+2025,Tamil Nadu,Three-Wheeler,Bajaj Auto,8651
+2025,Tamil Nadu,Three-Wheeler,Atul Auto,4813
+2025,Tamil Nadu,Three-Wheeler,Omega Seiki,5915
+2025,Tamil Nadu,Four-Wheeler,Tata Motors,4875
+2025,Tamil Nadu,Four-Wheeler,MG Motor,3779
+2025,Tamil Nadu,Four-Wheeler,Mahindra,5270
+2025,Tamil Nadu,Four-Wheeler,BYD,5283
+2025,Delhi,Two-Wheeler,TVS Motor,19197
+2025,Delhi,Two-Wheeler,Ather Energy,10848
+2025,Delhi,Two-Wheeler,Bajaj Auto,19020
+2025,Delhi,Two-Wheeler,Hero Electric,15194
+2025,Delhi,Three-Wheeler,Piaggio,4543
+2025,Delhi,Three-Wheeler,Bajaj Auto,6038
+2025,Delhi,Three-Wheeler,Atul Auto,6653
+2025,Delhi,Three-Wheeler,Omega Seiki,6955
+2025,Delhi,Four-Wheeler,MG Motor,2539
+2025,Delhi,Four-Wheeler,Hyundai,4684
+2025,Delhi,Four-Wheeler,Mahindra,4262
+2025,Delhi,Four-Wheeler,BYD,5829
+2025,Gujarat,Two-Wheeler,OLA Electric,11871
+2025,Gujarat,Two-Wheeler,TVS Motor,18653
+2025,Gujarat,Two-Wheeler,Ather Energy,16116
+2025,Gujarat,Two-Wheeler,Bajaj Auto,12746
+2025,Gujarat,Two-Wheeler,Hero Electric,16507
+2025,Gujarat,Three-Wheeler,Mahindra Electric,6985
+2025,Gujarat,Three-Wheeler,Piaggio,7307
+2025,Gujarat,Three-Wheeler,Bajaj Auto,7552
+2025,Gujarat,Three-Wheeler,Atul Auto,7202
+2025,Gujarat,Three-Wheeler,Omega Seiki,8218
+2025,Gujarat,Four-Wheeler,Tata Motors,5270
+2025,Gujarat,Four-Wheeler,MG Motor,6440
+2025,Gujarat,Four-Wheeler,Hyundai,5347
+2025,Gujarat,Four-Wheeler,Mahindra,3912
+2025,Gujarat,Four-Wheeler,BYD,4473
+2025,Rajasthan,Two-Wheeler,OLA Electric,12752
+2025,Rajasthan,Two-Wheeler,TVS Motor,14388
+2025,Rajasthan,Two-Wheeler,Ather Energy,7510
+2025,Rajasthan,Two-Wheeler,Bajaj Auto,9705
+2025,Rajasthan,Two-Wheeler,Hero Electric,14550
+2025,Rajasthan,Three-Wheeler,Mahindra Electric,3611
+2025,Rajasthan,Three-Wheeler,Piaggio,3411
+2025,Rajasthan,Three-Wheeler,Bajaj Auto,5280
+2025,Rajasthan,Three-Wheeler,Atul Auto,7264
+2025,Rajasthan,Three-Wheeler,Omega Seiki,5241
+2025,Rajasthan,Four-Wheeler,Tata Motors,5248
+2025,Rajasthan,Four-Wheeler,MG Motor,4962
+2025,Rajasthan,Four-Wheeler,Hyundai,2988
+2025,Rajasthan,Four-Wheeler,Mahindra,4942
+2025,Rajasthan,Four-Wheeler,BYD,3762
+2025,Uttar Pradesh,Two-Wheeler,OLA Electric,20541
+2025,Uttar Pradesh,Two-Wheeler,TVS Motor,19672
+2025,Uttar Pradesh,Two-Wheeler,Ather Energy,13762
+2025,Uttar Pradesh,Two-Wheeler,Bajaj Auto,10523
+2025,Uttar Pradesh,Two-Wheeler,Hero Electric,22807
+2025,Uttar Pradesh,Three-Wheeler,Mahindra Electric,4669
+2025,Uttar Pradesh,Three-Wheeler,Piaggio,9796
+2025,Uttar Pradesh,Three-Wheeler,Bajaj Auto,9136
+2025,Uttar Pradesh,Three-Wheeler,Atul Auto,8292
+2025,Uttar Pradesh,Three-Wheeler,Omega Seiki,9880
